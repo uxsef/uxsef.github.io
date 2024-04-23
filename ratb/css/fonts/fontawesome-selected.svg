@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>http://tympanus.net/Development/Calendario/font/fontawesome-selected.svg</title><link href="fontawesome-selected_files/viewsource.css" type="text/css" rel="stylesheet"/></head><body style="-moz-tab-size: 4" class="highlight" id="viewsource" contextmenu="actions"><pre id="line1"><span/><span class="pi">&lt;?xml version="1.0" standalone="no"?&gt;</span><span>
+<span id="line2"/></span><span class="error doctype" title="Stray doctype.">&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" &gt;</span><span>
+<span id="line3"/></span><span>&lt;<span class="start-tag">svg</span> <span class="attribute-name">xmlns</span>="<a class="attribute-value">http://www.w3.org/2000/svg</a>"&gt;</span><span>
+<span id="line4"/></span><span>&lt;<span class="start-tag">metadata</span>&gt;</span><span>
+<span id="line5"/>Created by FontForge 20100429 at Mon Nov 26 18:17:04 2012
+<span id="line6"/> By root
+<span id="line7"/>Copyright (C) 2012 by original authors @ fontello.com
+<span id="line8"/></span><span>&lt;/<span class="end-tag">metadata</span>&gt;</span><span>
+<span id="line9"/></span><span>&lt;<span class="start-tag">defs</span>&gt;</span><span>
+<span id="line10"/></span><span>&lt;<span class="start-tag">font</span> <span class="attribute-name">id</span>="<a class="attribute-value">fontawesome-selected</a>" <span class="attribute-name">horiz-adv-x</span>="<a class="attribute-value">387</a>" &gt;</span><span>
+<span id="line11"/>  </span><span>&lt;<span class="start-tag">font-face</span> 
+<span id="line12"/>    <span class="attribute-name">font-family</span>="<a class="attribute-value">fontawesome-selected</a>"
+<span id="line13"/>    <span class="attribute-name">font-weight</span>="<a class="attribute-value">500</a>"
+<span id="line14"/>    <span class="attribute-name">font-stretch</span>="<a class="attribute-value">normal</a>"
+<span id="line15"/>    <span class="attribute-name">units-per-em</span>="<a class="attribute-value">1000</a>"
+<span id="line16"/>    <span class="attribute-name">panose-1</span>="<a class="attribute-value">2 0 6 3 0 0 0 0 0 0</a>"
+<span id="line17"/>    <span class="attribute-name">ascent</span>="<a class="attribute-value">850</a>"
+<span id="line18"/>    <span class="attribute-name">descent</span>="<a class="attribute-value">-150</a>"
+<span id="line19"/>    <span class="attribute-name">bbox</span>="<a class="attribute-value">16 -44 963 746.161</a>"
+<span id="line20"/>    <span class="attribute-name">underline-thickness</span>="<a class="attribute-value">50</a>"
+<span id="line21"/>    <span class="attribute-name">underline-position</span>="<a class="attribute-value">-100</a>"
+<span id="line22"/>    <span class="attribute-name">unicode-range</span>="<a class="attribute-value">U+25B8-27A6</a>"
+<span id="line23"/>  <span>/</span>&gt;</span><span>
+<span id="line24"/></span><span>&lt;<span class="start-tag">missing-glyph</span> <span class="attribute-name">horiz-adv-x</span>="<a class="attribute-value">364</a>" 
+<span id="line25"/><span class="attribute-name">d</span>="<a class="attribute-value">M33 0v666h265v-666h-265zM66 33h199v600h-199v-600z</a>" <span>/</span>&gt;</span><span>
+<span id="line26"/>    </span><span>&lt;<span class="start-tag">glyph</span> <span class="attribute-name">glyph-name</span>="<a class="attribute-value">.notdef</a>" <span class="attribute-name">horiz-adv-x</span>="<a class="attribute-value">364</a>" 
+<span id="line27"/><span class="attribute-name">d</span>="<a class="attribute-value">M33 0v666h265v-666h-265zM66 33h199v600h-199v-600z</a>" <span>/</span>&gt;</span><span>
+<span id="line28"/>    </span><span>&lt;<span class="start-tag">glyph</span> <span class="attribute-name">glyph-name</span>="<a class="attribute-value">.null</a>" <span class="attribute-name">horiz-adv-x</span>="<a class="attribute-value">0</a>" 
+<span id="line29"/> <span>/</span>&gt;</span><span>
+<span id="line30"/>    </span><span>&lt;<span class="start-tag">glyph</span> <span class="attribute-name">glyph-name</span>="<a class="attribute-value">nonmarkingreturn</a>" <span class="attribute-name">horiz-adv-x</span>="<a class="attribute-value">333</a>" 
+<span id="line31"/> <span>/</span>&gt;</span><span>
+<span id="line32"/>    </span><span>&lt;<span class="start-tag">glyph</span> <span class="attribute-name">glyph-name</span>="<a class="attribute-value">uni25B8</a>" <span class="attribute-name">unicode</span>="<a class="attribute-value"><span class="entity"><span>&amp;</span>#x25b8;</span></a>" 
+<span id="line33"/><span class="attribute-name">d</span>="<a class="attribute-value">M16 74v553q0 25 23.5 35.5t43.5 -8.5l277 -276q12 -11 12 -28q0 -16 -12 -27l-277 -277q-20 -19 -43.5 -8t-23.5 36z</a>" <span>/</span>&gt;</span><span>
+<span id="line34"/>    </span><span>&lt;<span class="start-tag">glyph</span> <span class="attribute-name">glyph-name</span>="<a class="attribute-value">uni25C2</a>" <span class="attribute-name">unicode</span>="<a class="attribute-value"><span class="entity"><span>&amp;</span>#x25c2;</span></a>" 
+<span id="line35"/><span class="attribute-name">d</span>="<a class="attribute-value">M16 350q0 17 11 28l277 276q18 18 43 7.5t25 -34.5v-553q0 -26 -24.5 -36t-43.5 8l-277 277q-11 11 -11 27z</a>" <span>/</span>&gt;</span><span>
+<span id="line36"/>    </span><span>&lt;<span class="start-tag">glyph</span> <span class="attribute-name">glyph-name</span>="<a class="attribute-value">uni27A6</a>" <span class="attribute-name">unicode</span>="<a class="attribute-value"><span class="entity"><span>&amp;</span>#x27a6;</span></a>" <span class="attribute-name">horiz-adv-x</span>="<a class="attribute-value">979</a>" 
+<span id="line37"/><span class="attribute-name">d</span>="<a class="attribute-value">M16 26q0 227 148 367q165 155 465 156v151q0 39 19.5 45t44.5 -19l253 -254q17 -18 17 -42t-17 -42l-253 -254q-24 -25 -44 -18t-20 44v170q-257 -2 -410 -105q-139 -94 -161 -252q-1 -17 -19 -17h-1q-18 0 -19 17q-3 27 -3 53z</a>" <span>/</span>&gt;</span><span>
+<span id="line38"/>  </span><span>&lt;/<span class="end-tag">font</span>&gt;</span><span>
+<span id="line39"/></span><span>&lt;/<span class="end-tag">defs</span>&gt;</span><span/><span>&lt;/<span class="end-tag">svg</span>&gt;</span><span>
+<span id="line40"/></span></pre><menu type="context" id="actions"><menuitem id="goToLine" label="Go to Line…" accesskey="L"/><menuitem id="wrapLongLines" label="Wrap Long Lines" type="checkbox"/><menuitem id="highlightSyntax" label="Syntax Highlighting" type="checkbox" checked="true"/></menu></body></html>

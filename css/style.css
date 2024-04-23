@@ -1,0 +1,391 @@
+@import url("fonts/FTS.css");
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin: 0px auto;
+    background: #F1F1F1 none repeat scroll 0% 0%;
+    color: #444;
+}
+
+p {
+	margin: 0 0 10px;
+	font-size: 14px;
+}
+
+a {
+    color: #529ECC;
+    text-decoration: none;
+}
+
+.align-center {
+	text-align: center !important;
+}
+
+.top{
+	background-color: #222;
+	padding: 20px;
+}
+
+.row-2 .des p {
+	margin: 0 20px 5px 20px;
+	line-height: 20px;
+	color: #9a9a9a;
+	font-family: "JF-Flat",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+}
+
+.row-2 .des h1 {
+	margin: 0 20px 15px 20px;
+}
+
+button.expanded,
+.button.expanded {
+    background-color: #0D7EB9;
+    color: white;
+    width: 100%;
+}
+
+button.expanded:hover,
+button.expanded:focus,
+.button.expanded:hover,
+.button.expanded:focus {
+    background-color: #33ADDC;
+    color: white;
+}
+
+.button {
+    cursor: pointer;
+    font-family: "JF-Flat",Helvetica,Arial,sans-serif;
+    margin: 0 0 1.25em;
+    position: relative;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 1em;
+    background-color: #bdc3c7;
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-weight: normal;
+    border-radius: 3px;
+    line-height: 1.4;
+    padding: 10px 15px;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -webkit-transition: 0.25s linear;
+    transition: 0.25s linear;
+}
+
+.post-wrapper {
+    overflow: hidden;
+    padding: 0px;
+    position: relative;
+    margin-top: 20px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.13);
+    background: #FFF none repeat scroll 0% 0% padding-box;
+}
+
+.content {
+    margin: 40px auto;
+    padding: 1px 20px;
+    position: relative;
+    z-index: 2;
+    max-width: 740px;
+    min-width: 270px;
+}
+
+section {
+    display: block;
+    position: relative;
+    color: #444;
+}
+
+section img {
+    width: 100%;
+    height: auto;
+}
+
+.post {
+    transition: margin-bottom 0.2s ease 0s;
+    word-wrap: break-word;
+}
+
+.description {
+	font-family: "JF-Flat",Helvetica,Arial,sans-serif;
+	font-size: 16px;
+	color: #fff;
+	font-weight: 300;
+}
+
+.image-icon {
+    width: 75px;
+    height: 75px;
+}
+
+.comments {
+    margin: 0;
+    padding: 8px 10px;
+    background-color: #FAFAFA;
+    border-top: 1px solid #e1e1e1;
+}
+
+.comments .left {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.comments .right {
+	display: table-cell;
+	vertical-align: middle;
+	min-width: 150px;
+	text-align: right;
+}
+
+#footer {
+    font-size: 12px;
+    color: #A7A7A7;
+	line-height: 1.2;
+	display: table;
+	width: 100%;
+}
+
+.meta-itemr {
+    display: inline-block;
+    margin-right: 8px;
+    color: #A7A7A7;
+    line-height: 1.2;
+    text-decoration: none;
+}
+
+.meta-iteml {
+    display: inline-block;
+    margin-left: 8px;
+    color: #A7A7A7;
+    line-height: 1.2;
+    text-decoration: none;
+}
+
+.svg {
+  width: 28px;
+  fill: #A7A7A7;
+}
+
+.svg:hover {
+	fill: #0D7EB9;
+}
+
+.svg2 {
+  height: 22px;
+  width: auto;
+  fill:#A7A7A7;
+}
+
+.svg2:hover{
+	fill:#D72340;
+}
+
+.center {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    margin: 15px 0;
+    text-align: center;
+}
+
+.dpui-numberPicker {
+	display: inline-block;
+	border-radius: 5px;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+.dpui-numberPicker button {
+	margin: 0;
+	border: 1px solid #dddddd;
+	font-size: 18px;
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+	line-height: 20px;
+	vertical-align: top;
+	outline: none;
+	cursor: pointer;
+	background: #f0f0f0;
+	background: -moz-linear-gradient(top,  #f0f0f0 0%, #cccccc 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f0f0f0), color-stop(100%,#cccccc));
+	background: -webkit-linear-gradient(top,  #f0f0f0 0%,#cccccc 100%);
+	background: -o-linear-gradient(top,  #f0f0f0 0%,#cccccc 100%);
+	background: -ms-linear-gradient(top,  #f0f0f0 0%,#cccccc 100%);
+	background: linear-gradient(to bottom,  #f0f0f0 0%,#cccccc 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f0f0', endColorstr='#cccccc',GradientType=0 );
+}
+.dpui-numberPicker button:hover {
+	background: #cccccc;
+	background: -moz-linear-gradient(top,  #cccccc 0%, #f0f0f0 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cccccc), color-stop(100%,#f0f0f0));
+	background: -webkit-linear-gradient(top,  #cccccc 0%,#f0f0f0 100%);
+	background: -o-linear-gradient(top,  #cccccc 0%,#f0f0f0 100%);
+	background: -ms-linear-gradient(top,  #cccccc 0%,#f0f0f0 100%);
+	background: linear-gradient(to bottom,  #cccccc 0%,#f0f0f0 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cccccc', endColorstr='#f0f0f0',GradientType=0 );
+}
+.dpui-numberPicker-input {
+	display: inline-block;
+	width: 75px;
+	height: 30px;
+	line-height: 30px;
+	padding: 0 8px;
+	margin: 0;
+	text-align: center;
+	outline: none;
+	vertical-align: top;
+	border: 0;
+	border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+	background: #f9f9f9;
+}
+.dpui-numberPicker-input:focus {
+	background: #ffffff;
+}
+.dpui-numberPicker-decrease {
+	border-radius: 5px 0 0 5px;
+}
+.dpui-numberPicker-increase {
+	border-radius: 0 5px 5px 0;
+}
+.dpui-numberPicker.dpui-numberPicker-min .dpui-numberPicker-decrease, .dpui-numberPicker.dpui-numberPicker-max .dpui-numberPicker-increase {
+	background: #cccccc;
+	color: #999999;
+}
+
+/* resets */
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+.clearfix:after {
+    content: "";
+  display: table;
+  clear: both;
+}
+
+/* global */
+.wrapper {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 95%;
+  background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Janna LT W20 Regular",Helvetica,Arial,sans-serif;
+    font-weight: 300;
+}
+
+h2, .h2 {
+    font-size: 22px;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+/* grid */
+[class*="row-"] {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+[class*="row-"]:last-child {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+[class*="col-"] {
+	padding: 20px;
+}
+
+@media all and ( min-width: 768px ) {
+  .button {
+	  margin: 0;
+  }
+  /* all cols margin */
+  [class*="col-"] {
+  }
+  [class*="col-"]:last-child {
+  }
+  
+  /* make the columns responsive */
+  .col-1-2 {
+    float: left;
+    width: 50%;
+  }
+  
+  .col-1-4 {
+    float: left;
+    width: 25%;
+  }
+  .col-1-8 {
+    float: left;
+    width: 25%;
+  }
+  
+  /* 2 span rows */
+  .row-2 {
+  }
+  .row-2 [class*="col-"]:first-child {
+  }
+  
+  .row-2 [class*="col-"]:last-child {
+  }
+  
+  /* 4 span rows */
+  .row-4 {
+    padding-left: 60px;
+  }
+  .row-4 [class*="col-"]:first-child {
+    margin-left: -60px;
+  }
+  
+  /* 8 span rows */
+  .row-8 {
+    padding-left: 60px;
+  }
+  .row-8 [class*="col-"]:nth-child(4n+1) {
+    margin-left: -60px;
+  }
+  .row-8 [class*="col-"]:nth-child(5n-1) {
+    margin-right: 0;
+  }
+  .row-8 [class*="col-"]:nth-child(6n-1) {
+    clear: both;
+  }
+  
+}
+
+@media all and ( min-width: 1200px ) {
+  .button {
+	  margin: 0;
+  }
+  /* adjust width */
+  .col-1-8 {
+    float: left;
+    width: 12.5%;
+  }
+  
+  /* 8 span rows */
+  .row-8 {
+    padding-left: 140px;
+  }
+  /* reset these... */
+  .row-8 [class*="col-"]:nth-child(4n+1) {
+    margin-left: 0;
+  }
+  .row-8 [class*="col-"]:nth-child(5n-1) {
+    margin-right: 20px;
+  }
+  .row-8 [class*="col-"]:nth-child(6n-1) {
+    clear: none;
+  }
+  /* and add this */
+  .row-8 [class*="col-"]:nth-child(1) {
+    margin-left: -140px;
+  }
+  
+}

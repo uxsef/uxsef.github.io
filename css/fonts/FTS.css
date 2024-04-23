@@ -1,0 +1,58 @@
+@font-face {
+    font-family: "JF-Flat";
+    src: url('JF-Flat-regular.eot');
+    src: url('JF-Flat-regular.eot?#iefix') format('embedded-opentype'),
+    url('JF-Flat-regular.svg#JF Flat Regular') format('svg'),
+    url('JF-Flat-regular.woff') format('woff'),
+    url('JF-Flat-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 400;
+  src: url('DroidKufi-Regular.eot');
+  src: url('DroidKufi-Regular.eot?#iefix') format('embedded-opentype'),
+       url('DroidKufi-Regular.woff2') format('woff2'),
+       url('DroidKufi-Regular.woff') format('woff'),
+       url('DroidKufi-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family:"Janna LT W20 Regular";
+	src:url("Janna-LT-Regular.eot?#iefix");
+	src:url("Janna-LT-Regular.eot?#iefix") 
+	format("eot"),url("Janna-LT-Regular.woff") 
+	format("woff"),url("Janna-LT-Regular.ttf") 
+	format("truetype"),url("Janna-LT-Regular.svg#a24f53ee-e15e-4931-89a3-b6f17fbfcd72") 
+	format("svg");
+}
+@font-face {
+	font-family:'HelveticaNeue';
+	src: url('HelveticaNeueW23-Reg.eot');
+	src: url('HelveticaNeueW23-Reg.eot?#iefix') 
+	format('embedded-opentype'),url('HelveticaNeueW23-Reg.ttf') 
+	format('truetype'),url('HelveticaNeueW23-Reg.svg#HelveticaNeueW23forSKY-Reg') 
+	format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family:'jazeera';
+	src:url('jazeera.eot?#iefix');
+	src:local('الجزيرة'),local('jazeera'),url('jazeera.woff') format('woff');
+}
+@font-face{
+	font-family:'droid-sans';
+	src:url('//www.fontstatic.com/fonts/droid-sans/droid-sans.eot?#iefix');
+	src:local('درويد سانز'),local('droid-sans'),url('//www.fontstatic.com/fonts/droid-sans/droid-sans.woff') format('woff');
+}
+@font-face{
+	font-family:'Noto Naskh Arabic';
+	font-style:normal;font-weight:700;
+	src:url('NotoNaskhArabic-Bold.eot');
+	src:url('NotoNaskhArabic-Bold.eot?#iefix') format('embedded-opentype') , 
+	url('NotoNaskhArabic-Bold.woff2') format('woff2') , 
+	url('NotoNaskhArabic-Bold.woff') format('woff') , 
+	url('NotoNaskhArabic-Bold.ttf') format('truetype')
+}
